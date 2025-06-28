@@ -29,8 +29,7 @@ product_sentiment_app/
 │ └── label_encoder.pkl # Label encoder
 
 yaml
-Copy
-Edit
+
 
 ---
 
